@@ -1,0 +1,64 @@
+# Site settings
+title: vStream
+email: your-email@domain.com
+description: Addon de streaming pour Kodi
+
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: http://vstream.ml # the base hostname & protocol for your site
+git_address: https://github.com/kodi-vstream/venom-xbmc-doc/
+git_edit_address: https://github.com/kodi-vstream/venom-xbmc-doc/blob/gh-pages
+
+# theme options from https://bootswatch.com/
+# comment out this to use default Bootstrap
+bootwatch: paper
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+gems:
+  - jekyll-feed
+  - jekyll-redirect-from
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - .idea/
+  - .gitignore
+  - README.md
+timezone: Europe/Berlin
+
+defaults:
+- scope:
+    path: _posts
+    type: posts
+  values:
+    layout: post
+    sectionid: blog
+
+- scope:
+    path: _docs
+    type: docs
+  values:
+    layout: docs
+    sectionid: docs
+    seo:
+      type: "WebPage"
+      
+#- scope:
+#    type: redirects
+#  values:
+#    layout: redirect
+      
+
+collections:
+  docs:
+    permalink: /:collection/:path/
+    output: true
+  posts:
+    permalink: /blog/:year/:month/:day/:title/
+    output: true
+  #redirects:
+    #output: true
+    

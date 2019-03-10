@@ -1,0 +1,22 @@
+- title: Bien débuter
+  docs:
+  - home
+  - installation
+  - installation2
+  - update
+  - folder
+  - dependances
+
+- title: En détail
+  docs:
+  - outils
+  - lecteurs
+  - clone
+  - add
+  - script
+  - metalliq
+  - recaptcha
+  
+- title: Modifier docs
+  docs:
+  - page
