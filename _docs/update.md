@@ -11,7 +11,7 @@ Installez notre repository pour avoir la dernière version installée automatiqu
 https://github.com/KodiStream/xbmc-adult-addons/releases/tag/0.0.1
 
 
-### Mise à jour semi-automatique (Dans le menu d’accueil de vStream)
+### Mise à jour semi-automatique (Dans le menu d’accueil de Adult Stream)
 ---
 
 Tous **les trois jours** et à l'installation, Adult Stream vérifie les mises à jour.
