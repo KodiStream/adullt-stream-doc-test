@@ -13,7 +13,7 @@ permalink: /docs/installation/
 
 - Depuis Home cliquer sur extensions puis sur l'icone de la petite boite.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_1.jpg)
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_1.jpg)
 
  - Installer depuis un zip.
 
@@ -22,36 +22,36 @@ permalink: /docs/installation/
 
  - Choisissez le dossier local contenant repository.kodistream.adult-x.x.zip
  
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_2.jpg)
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_2.jpg)
 
 
 ### Installer l'addon Adult Stream
 
  - Depuis Home cliquer sur extensions puis sur Installer depuis un dépôt.
  
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_3.jpg)
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_3.jpg)
 
 
 
 - Sélectionner KodiStream Adult Addons Repository.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_4.jpg)   
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_4.jpg)   
 
 
 
 - Sélectionner Extensions Vidéos.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_5.jpg)
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_5.jpg)
 
 
 
 - Sélectionner Adult Stream.
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_6.jpg)
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_6.jpg)
   
   
   
 - Sélectionner Adult Stream / Installer
 
-![images](https://github.com/Kodi-vStream/venom-xbmc-doc/raw/gh-pages/img/install_7.jpg)
+![images](https://github.com/KodiStream/adullt-stream-doc-test/raw/gh-pages/img/install_7.jpg)
  
