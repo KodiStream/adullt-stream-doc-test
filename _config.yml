@@ -1,12 +1,12 @@
 # Site settings
-title: vStream
+title: Adult Stream
 email: your-email@domain.com
-description: Addon de streaming pour Kodi
+description: Addon de streaming Adulte pour Kodi
 
 baseurl: "/" # the subpath of your site, e.g. /blog/
-url: http://vstream.ml # the base hostname & protocol for your site
-git_address: https://github.com/kodi-vstream/venom-xbmc-doc/
-git_edit_address: https://github.com/kodi-vstream/venom-xbmc-doc/blob/gh-pages
+url: https://kodistream.github.io/adult-stream-doc # the base hostname & protocol for your site
+git_address: https://github.com/KodiStream/xbmc-adult-doc/
+git_edit_address: https://github.com/KodiStream/xbmc-adult-doc/blob/gh-pages
 
 # theme options from https://bootswatch.com/
 # comment out this to use default Bootstrap
